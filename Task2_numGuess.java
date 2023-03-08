@@ -34,7 +34,7 @@ class NumberGuess{
     }   
 }
 
-public class Task1_numGuess {
+public class Task2_numGuess {
     public static void main(String[] args) {
         NumberGuess Ng = new NumberGuess();
         boolean b = false;
